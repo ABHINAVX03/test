@@ -1,0 +1,7 @@
+{{#ABHINAVX03}}
+
+name:Abhinav gupta
+skills: HTML,CSS,Javascript,Php,jquery,reactjs,express js,git and github,mongodb,sql,problem solving,DSA
+EMAIL:guptaabhinav697@gmail.com
+
+{{/ABHINAVX03}}
